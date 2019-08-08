@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-08T10:11:41</date>
+  <millis>1565241101895</millis>
+  <sequence>0</sequence>
+  <logger>LOG</logger>
+  <level>WARNING</level>
+  <class>com.company.Main</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message></message>
+  <exception>
+    <message>java.lang.NullPointerException</message>
+    <frame>
+      <class>com.company.Main</class>
+      <method>main</method>
+      <line>17</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-08T10:13:17</date>
+  <millis>1565241197868</millis>
+  <sequence>0</sequence>
+  <logger>LOG</logger>
+  <level>WARNING</level>
+  <class>com.company.Main</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message></message>
+  <exception>
+    <message>java.lang.NullPointerException</message>
+    <frame>
+      <class>com.company.Main</class>
+      <method>main</method>
+      <line>19</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-08T10:13:59</date>
+  <millis>1565241239394</millis>
+  <sequence>0</sequence>
+  <logger>LOG</logger>
+  <level>WARNING</level>
+  <class>com.company.Main</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>342</message>
+  <exception>
+    <message>java.lang.NullPointerException</message>
+    <frame>
+      <class>com.company.Main</class>
+      <method>main</method>
+      <line>19</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-08T10:14:33</date>
+  <millis>1565241273489</millis>
+  <sequence>0</sequence>
+  <logger>LOG</logger>
+  <level>WARNING</level>
+  <class>com.company.Main</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>java.lang.NullPointerException
+	at com.company.Main.main(Main.java:20)
+</message>
+  <exception>
+    <message>java.lang.NullPointerException</message>
+    <frame>
+      <class>com.company.Main</class>
+      <method>main</method>
+      <line>20</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-08T10:15:25</date>
+  <millis>1565241325766</millis>
+  <sequence>0</sequence>
+  <logger>LOG</logger>
+  <level>WARNING</level>
+  <class>com.company.Main</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message></message>
+  <exception>
+    <message>java.lang.NullPointerException</message>
+    <frame>
+      <class>com.company.Main</class>
+      <method>main</method>
+      <line>19</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-08T10:15:54</date>
+  <millis>1565241354132</millis>
+  <sequence>0</sequence>
+  <logger>LOG</logger>
+  <level>WARNING</level>
+  <class>com.company.Main</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message></message>
+  <exception>
+    <message>java.lang.NullPointerException</message>
+    <frame>
+      <class>com.company.Main</class>
+      <method>main</method>
+      <line>20</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-08T10:15:59</date>
+  <millis>1565241359942</millis>
+  <sequence>0</sequence>
+  <logger>LOG</logger>
+  <level>WARNING</level>
+  <class>com.company.Main</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message></message>
+  <exception>
+    <message>java.lang.NullPointerException</message>
+    <frame>
+      <class>com.company.Main</class>
+      <method>main</method>
+      <line>20</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-08T10:16:19</date>
+  <millis>1565241379862</millis>
+  <sequence>0</sequence>
+  <logger>LOG</logger>
+  <level>WARNING</level>
+  <class>com.company.Main</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>java.lang.NullPointerException
+	at com.company.Main.main(Main.java:20)
+</message>
+  <exception>
+    <message>java.lang.NullPointerException</message>
+    <frame>
+      <class>com.company.Main</class>
+      <method>main</method>
+      <line>20</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-08T10:17:09</date>
+  <millis>1565241429870</millis>
+  <sequence>0</sequence>
+  <logger>LOG</logger>
+  <level>WARNING</level>
+  <class>com.company.Main</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>java.lang.NullPointerException
+	at com.company.Main.main(Main.java:20)
+</message>
+  <exception>
+    <message>java.lang.NullPointerException</message>
+    <frame>
+      <class>com.company.Main</class>
+      <method>main</method>
+      <line>20</line>
+    </frame>
+  </exception>
+</record>
+</log>
