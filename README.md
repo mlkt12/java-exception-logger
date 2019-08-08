@@ -1,2 +1,2 @@
 # java-exception-logger
-How to log exceptions in file
+#### An easy way to write exceptions to a file
